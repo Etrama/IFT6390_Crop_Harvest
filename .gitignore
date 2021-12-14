@@ -1,0 +1,10 @@
+.*
+catboost_info/
+models/
+predictions_submit/
+*.zip
+*.docx
+*.log
+*.pdf
+*.csv
+*.pkl
